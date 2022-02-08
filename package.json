@@ -1,6 +1,6 @@
 {
-  "name": "expo-react-auth",
-  "version": "0.0.2",
+  "name": "expo-authentication",
+  "version": "0.0.32",
   "description": "Authentication for expo applications",
   "main": "auth.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ah-vemco/expo-auth.git"
+    "url": "git+https://github.com/vemcogroup/expo-authentication/"
   },
   "author": "ah",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ah-vemco/expo-auth/issues"
+    "url": "https://github.com/vemcogroup/expo-authentication/"
   },
-  "homepage": "https://github.com/ah-vemco/expo-auth#readme",
+  "homepage": "https://github.com/vemcogroup/expo-authentication#readme",
   "dependencies": {
     "axios": "^0.25.0",
     "expo-local-authentication": "^12.1.1",
